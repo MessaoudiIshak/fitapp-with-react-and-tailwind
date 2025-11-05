@@ -58,8 +58,6 @@ The app will generate a complete workout with:
 - React + Vite
 - Tailwind CSS for styling
 - Modern JavaScript (ES6+)
-- Dynamic workout generation algorithms
-- Responsive design for all devices
 
 ---
 
